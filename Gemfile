@@ -35,7 +35,7 @@ group :test, :development do
 	gem 'factory_girl_rails'
 end
 
-
+gem 'passenger'
 # Use unicorn as the app server
 # gem 'unicorn'
 
