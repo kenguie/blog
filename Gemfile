@@ -36,6 +36,7 @@ group :test, :development do
 end
 
 gem 'passenger'
+gem 'pg'
 # Use unicorn as the app server
 # gem 'unicorn'
 
