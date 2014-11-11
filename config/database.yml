@@ -21,10 +21,10 @@ test:
   database: db/test.sqlite3
 
 production:
-	adapter: postgresql
-	pool: 5
-	timeout: 5000
-	database: blog1
-	username: hunter
-	host: localhost
-	encoding: unicode
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+  database: blog1
+  username: hunter
+  host: localhost
+  encoding: unicode
